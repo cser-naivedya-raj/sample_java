@@ -12,4 +12,5 @@ public class Test {
   {
     add();
   }
+  System.out.println("Hello World");
 }
