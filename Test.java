@@ -12,6 +12,7 @@ public class Test {
   {
     System.out.println("Hello World");
     System.out.println("Welcome to Java Programming");
+    System.out.println("This is a simple Java program.");
     add();
   }
   
